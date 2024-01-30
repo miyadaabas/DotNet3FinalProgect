@@ -1,0 +1,12 @@
+D:\Awaab\Kirkwood\Tutor\Dotnet2\Miyada\DotNet2Finalproject\DataObjectsLayer\bin\Debug\net6.0\DataObjectsLayer.deps.json
+D:\Awaab\Kirkwood\Tutor\Dotnet2\Miyada\DotNet2Finalproject\DataObjectsLayer\bin\Debug\net6.0\DataObjectsLayer.dll
+D:\Awaab\Kirkwood\Tutor\Dotnet2\Miyada\DotNet2Finalproject\DataObjectsLayer\bin\Debug\net6.0\DataObjectsLayer.pdb
+D:\Awaab\Kirkwood\Tutor\Dotnet2\Miyada\DotNet2Finalproject\DataObjectsLayer\obj\Debug\net6.0\DataObjectsLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Awaab\Kirkwood\Tutor\Dotnet2\Miyada\DotNet2Finalproject\DataObjectsLayer\obj\Debug\net6.0\DataObjectsLayer.AssemblyInfoInputs.cache
+D:\Awaab\Kirkwood\Tutor\Dotnet2\Miyada\DotNet2Finalproject\DataObjectsLayer\obj\Debug\net6.0\DataObjectsLayer.AssemblyInfo.cs
+D:\Awaab\Kirkwood\Tutor\Dotnet2\Miyada\DotNet2Finalproject\DataObjectsLayer\obj\Debug\net6.0\DataObjectsLayer.csproj.CoreCompileInputs.cache
+D:\Awaab\Kirkwood\Tutor\Dotnet2\Miyada\DotNet2Finalproject\DataObjectsLayer\obj\Debug\net6.0\DataObjectsLayer.sourcelink.json
+D:\Awaab\Kirkwood\Tutor\Dotnet2\Miyada\DotNet2Finalproject\DataObjectsLayer\obj\Debug\net6.0\DataObjectsLayer.dll
+D:\Awaab\Kirkwood\Tutor\Dotnet2\Miyada\DotNet2Finalproject\DataObjectsLayer\obj\Debug\net6.0\refint\DataObjectsLayer.dll
+D:\Awaab\Kirkwood\Tutor\Dotnet2\Miyada\DotNet2Finalproject\DataObjectsLayer\obj\Debug\net6.0\DataObjectsLayer.pdb
+D:\Awaab\Kirkwood\Tutor\Dotnet2\Miyada\DotNet2Finalproject\DataObjectsLayer\obj\Debug\net6.0\ref\DataObjectsLayer.dll

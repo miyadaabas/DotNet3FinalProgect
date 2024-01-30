@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IDataAccessLayer/1.0.0": {
+        "dependencies": {
+          "DataObjectsLayer": "1.0.0"
+        },
+        "runtime": {
+          "IDataAccessLayer.dll": {}
+        }
+      },
+      "DataObjectsLayer/1.0.0": {
+        "runtime": {
+          "DataObjectsLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IDataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataObjectsLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
