@@ -7,11 +7,11 @@ namespace ILogicLayer
 {
     public interface IEmployeeManager
     {
-        public int addEmployee(Employee employee);
-        public int deleteEmployee(Employee employee);
-        public int editEmployee(Employee employee);
-        public List<Employee> getAllEmployees();
-        public string getEmployeeRole(int employeeId);
-        public int verifyUser(string email, string password);
+        int addEmployee(Employee employee);
+        int deleteEmployee(Employee employee);
+        int editEmployee(Employee employee);
+        List<Employee> getAllEmployees();
+        string getEmployeeRole(int employeeId);
+        int verifyUser(string email, string password);
     }
 }

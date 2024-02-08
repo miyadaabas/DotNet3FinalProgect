@@ -196,7 +196,7 @@ go
 create table employee_verification(
 	employee_id	int	not null,
 	email	nvarchar(255)	not null,
-	passwordHash	nvarchar(255)	not null DEFAULT '8cb145987600e5fd7bc35f8848dac87408eeb55472aaa453f3322673df8c333f',
+	passwordHash	nvarchar(255)	not null DEFAULT '5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8',
 	constraint pk_emmployee_verification primary key (employee_id),
 	constraint fk_employee_verification  foreign key (employee_id)
 	references employee (employee_id)

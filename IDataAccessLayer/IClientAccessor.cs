@@ -9,9 +9,9 @@ namespace IDataAccessLayer
 {
     public interface IClientAccessor
     {
-        public int buyBike(Bike bike, Client client);
-        public int Insert(Client client);
-        public List<Client> selectAllClients();
-        public int UpdateClient(Client client);
+        int buyBike(Bike bike, Client client);
+        int Insert(Client client);
+        List<Client> selectAllClients();
+        int UpdateClient(Client client);
     }
 }

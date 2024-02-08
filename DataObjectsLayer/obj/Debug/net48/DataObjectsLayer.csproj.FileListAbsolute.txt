@@ -1,0 +1,27 @@
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataObjectsLayer\bin\Debug\net48\DataObjectsLayer.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataObjectsLayer\bin\Debug\net48\DataObjectsLayer.pdb
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.csproj.AssemblyReference.cache
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.AssemblyInfoInputs.cache
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.AssemblyInfo.cs
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.csproj.CoreCompileInputs.cache
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataObjectsLayer\bin\Debug\net48\DataObjectsLayer.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataObjectsLayer\bin\Debug\net48\DataObjectsLayer.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.csproj.AssemblyReference.cache
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.AssemblyInfoInputs.cache
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.AssemblyInfo.cs
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.csproj.CoreCompileInputs.cache
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataObjectsLayer\bin\Debug\net48\DataObjectsLayer.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataObjectsLayer\bin\Debug\net48\DataObjectsLayer.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.csproj.AssemblyReference.cache
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.AssemblyInfoInputs.cache
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.AssemblyInfo.cs
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.csproj.CoreCompileInputs.cache
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataObjectsLayer\obj\Debug\net48\DataObjectsLayer.pdb

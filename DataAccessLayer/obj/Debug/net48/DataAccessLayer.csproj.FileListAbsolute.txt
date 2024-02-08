@@ -1,0 +1,45 @@
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\DataAccessLayer.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\DataAccessLayer.pdb
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\System.Data.SqlClient.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\DataObjectsLayer.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\IDataAccessLayer.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\DataObjectsLayer.pdb
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\IDataAccessLayer.pdb
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.csproj.AssemblyReference.cache
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.AssemblyInfoInputs.cache
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.AssemblyInfo.cs
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.csproj.CopyComplete
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\DataAccessLayer.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\DataAccessLayer.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\System.Data.SqlClient.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\DataObjectsLayer.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\IDataAccessLayer.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\DataObjectsLayer.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\IDataAccessLayer.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.csproj.AssemblyReference.cache
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.AssemblyInfoInputs.cache
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.AssemblyInfo.cs
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.csproj.CopyComplete
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\DataAccessLayer.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\DataAccessLayer.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\System.Data.SqlClient.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\DataObjectsLayer.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\IDataAccessLayer.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\DataObjectsLayer.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataAccessLayer\bin\Debug\net48\IDataAccessLayer.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.csproj.CopyComplete
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\DataAccessLayer\obj\Debug\net48\DataAccessLayer.pdb

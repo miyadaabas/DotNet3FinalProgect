@@ -9,8 +9,8 @@ namespace ILogicLayer
 {
     public interface IBikeManager
     {
-        public int addBike(Bike bike);
-        public int edit(Bike bike);
-        public List<Bike> getAllBikes();
+        int addBike(Bike bike);
+        int edit(Bike bike);
+        List<Bike> getAllBikes();
     }
 }

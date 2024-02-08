@@ -9,11 +9,11 @@ namespace IDataAccessLayer
 {
     public interface IEmployeeAccessor
     {
-        public int deleteEmployee(Employee employee);
-        public int insertEmployee(Employee employee);
-        public string selectEmployeeRole(int employeeId);
-        public List<Employee> selectEmployees();
-        public int updateEmployee(Employee employee);
-        public int verifyUser(string email, string password);
+        int deleteEmployee(Employee employee);
+        int insertEmployee(Employee employee);
+        string selectEmployeeRole(int employeeId);
+        List<Employee> selectEmployees();
+        int updateEmployee(Employee employee);
+        int verifyUser(string email, string password);
     }
 }

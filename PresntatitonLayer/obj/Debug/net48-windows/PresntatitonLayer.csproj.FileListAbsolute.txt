@@ -1,0 +1,102 @@
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\PresntatitonLayer.exe.config
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\PresntatitonLayer.exe
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\PresntatitonLayer.pdb
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\System.Data.SqlClient.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\DataAccessLayer.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\DataObjectsLayer.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\IDataAccessLayer.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\ILogicLayer.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\LogicLayer.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\ILogicLayer.pdb
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\LogicLayer.pdb
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\DataAccessLayer.pdb
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\DataObjectsLayer.pdb
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\IDataAccessLayer.pdb
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.csproj.AssemblyReference.cache
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\FrmBike.g.cs
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\FrmClient.g.cs
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\FrmEmployee.g.cs
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\MainWindow.g.cs
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\App.g.cs
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer_MarkupCompile.cache
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer_MarkupCompile.lref
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\FrmBike.baml
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\FrmClient.baml
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\FrmEmployee.baml
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\MainWindow.baml
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.g.resources
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.AssemblyInfoInputs.cache
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.AssemblyInfo.cs
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.csproj.CoreCompileInputs.cache
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.csproj.CopyComplete
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.exe
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\PresntatitonLayer.exe.config
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\PresntatitonLayer.exe
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\PresntatitonLayer.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\System.Data.SqlClient.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\DataAccessLayer.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\DataObjectsLayer.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\IDataAccessLayer.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\ILogicLayer.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\LogicLayer.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\DataObjectsLayer.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\ILogicLayer.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\LogicLayer.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\DataAccessLayer.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\IDataAccessLayer.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.csproj.AssemblyReference.cache
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\FrmBike.g.cs
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\FrmClient.g.cs
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\FrmEmployee.g.cs
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\MainWindow.g.cs
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\App.g.cs
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer_MarkupCompile.cache
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer_MarkupCompile.lref
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\FrmBike.baml
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\FrmClient.baml
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\FrmEmployee.baml
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\MainWindow.baml
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.g.resources
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.AssemblyInfoInputs.cache
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.AssemblyInfo.cs
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.csproj.CoreCompileInputs.cache
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.csproj.CopyComplete
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.exe
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\PresntatitonLayer.exe.config
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\PresntatitonLayer.exe
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\PresntatitonLayer.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\System.Data.SqlClient.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\DataAccessLayer.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\DataObjectsLayer.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\IDataAccessLayer.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\ILogicLayer.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\LogicLayer.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\DataObjectsLayer.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\ILogicLayer.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\LogicLayer.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\DataAccessLayer.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\bin\Debug\net48-windows\IDataAccessLayer.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.csproj.AssemblyReference.cache
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\FrmBike.g.cs
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\FrmClient.g.cs
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\FrmEmployee.g.cs
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\MainWindow.g.cs
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\App.g.cs
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer_MarkupCompile.cache
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer_MarkupCompile.lref
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\FrmBike.baml
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\FrmClient.baml
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\FrmEmployee.baml
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\MainWindow.baml
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.g.resources
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.AssemblyInfoInputs.cache
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.AssemblyInfo.cs
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.csproj.CopyComplete
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.exe
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\PresntatitonLayer\obj\Debug\net48-windows\PresntatitonLayer.pdb

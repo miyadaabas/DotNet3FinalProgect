@@ -1,0 +1,432 @@
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\CoverletSourceRootsMapping
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.csproj.AssemblyReference.cache
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.AssemblyInfoInputs.cache
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.AssemblyInfo.cs
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.csproj.CoreCompileInputs.cache
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\nunit.engine.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\nunit.engine.api.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\nunit.engine.core.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\testcentric.engine.metadata.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\LogicLayerTests.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\LogicLayerTests.pdb
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.ApplicationInsights.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.Testing.Extensions.Telemetry.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.Testing.Platform.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.Testing.Platform.MSBuild.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.TestPlatform.CoreUtilities.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\NuGet.Frameworks.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\nunit.framework.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Buffers.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Collections.Immutable.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Data.SqlClient.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Diagnostics.DiagnosticSource.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Memory.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Numerics.Vectors.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Reflection.Metadata.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\DataAccessLayer.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\DataObjectsLayer.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\FakeDataAccessLayer.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\IDataAccessLayer.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ILogicLayer.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\LogicLayer.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\DataObjectsLayer.pdb
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\FakeDataAccessLayer.pdb
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ILogicLayer.pdb
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\LogicLayer.pdb
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\DataAccessLayer.pdb
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\IDataAccessLayer.pdb
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.csproj.CopyComplete
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.dll
+C:\dot net two AM\Final Project Submission Miyada Abas - Submissions Feb 2, 2024 1140 AM\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\CoverletSourceRootsMapping
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\nunit.engine.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\nunit.engine.api.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\nunit.engine.core.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\testcentric.engine.metadata.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\LogicLayerTests.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\LogicLayerTests.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.ApplicationInsights.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.Testing.Extensions.Telemetry.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.Testing.Platform.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.Testing.Platform.MSBuild.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.TestPlatform.CoreUtilities.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\NuGet.Frameworks.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\nunit.framework.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Buffers.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Collections.Immutable.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Data.SqlClient.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Diagnostics.DiagnosticSource.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Memory.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Numerics.Vectors.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Reflection.Metadata.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\DataAccessLayer.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\DataObjectsLayer.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\FakeDataAccessLayer.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\IDataAccessLayer.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ILogicLayer.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\LogicLayer.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\DataObjectsLayer.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\FakeDataAccessLayer.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ILogicLayer.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\LogicLayer.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\DataAccessLayer.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\IDataAccessLayer.pdb
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.csproj.AssemblyReference.cache
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.AssemblyInfoInputs.cache
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.AssemblyInfo.cs
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.csproj.CoreCompileInputs.cache
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.csproj.CopyComplete
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.dll
+C:\dot net two AM\Miyada\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\CoverletSourceRootsMapping
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\nunit.engine.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\testcentric.engine.metadata.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\LogicLayerTests.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\LogicLayerTests.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.ApplicationInsights.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.Testing.Extensions.Telemetry.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.Testing.Platform.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.Testing.Platform.MSBuild.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\NuGet.Frameworks.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\nunit.framework.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Buffers.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Collections.Immutable.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Data.SqlClient.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Memory.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Numerics.Vectors.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Reflection.Metadata.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.Testing.Platform.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.Testing.Platform.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.Testing.Platform.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.Testing.Platform.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.Testing.Platform.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.Testing.Platform.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.Testing.Platform.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.Testing.Platform.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.Testing.Platform.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.Testing.Platform.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\DataAccessLayer.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\DataObjectsLayer.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\FakeDataAccessLayer.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\IDataAccessLayer.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ILogicLayer.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\LogicLayer.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\DataObjectsLayer.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\FakeDataAccessLayer.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\ILogicLayer.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\LogicLayer.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\DataAccessLayer.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\bin\Debug\net48\IDataAccessLayer.pdb
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.csproj.AssemblyReference.cache
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.AssemblyInfoInputs.cache
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.AssemblyInfo.cs
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.csproj.CoreCompileInputs.cache
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.csproj.CopyComplete
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.dll
+C:\Users\Miyada\Miyada\Miyada\DotNet2Finalproject-main\LogicLayerTests\obj\Debug\net48\LogicLayerTests.pdb

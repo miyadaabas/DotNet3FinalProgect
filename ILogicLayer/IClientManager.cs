@@ -9,9 +9,9 @@ namespace ILogicLayer
 {
     public interface IClientManager
     {
-        public int add(Client client);
-        public int buyBike(Bike bike, Client client);
-        public List<Client> getAllClients();
-        public int update(Client client);
+        int add(Client client);
+        int buyBike(Bike bike, Client client);
+        List<Client> getAllClients();
+        int update(Client client);
     }
 }

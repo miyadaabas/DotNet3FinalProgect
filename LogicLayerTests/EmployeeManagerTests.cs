@@ -5,16 +5,19 @@ using DataObjectsLayer;
 using FakeDataAccessLayer;
 using System.Text;
 using System.Security.Cryptography;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Collections.Generic;
 
 namespace LogicLayerTests
 {
+    [TestClass]
     public class EmployeeManagerTests
     {
         private IEmployeeManager _employeeManager;
         private IEmployeeAccessor _employeeAccessor;
         private List<Employee> employees;
 
-        [SetUp]
+        [TestInitialize]
         public void Setup()
         {
             employees = new List<Employee>();
@@ -54,7 +57,8 @@ namespace LogicLayerTests
             employee.passwordHash = hashSHA256(value);
             return employee;
         }
-        private string hashSHA256(string? source)
+
+        private string hashSHA256(string source)
         {
             string result = "";
             byte[] data;
@@ -70,44 +74,48 @@ namespace LogicLayerTests
             result = s.ToString();
             return result;
         }
-        [Test]
+
+        [TestMethod]
         public void TestAddEmployee()
         {
             Employee employee = generateEmployee("testing");
             int expected = 1;
             int actual = _employeeManager.addEmployee(employee);
-            Assert.That(expected, Is.EqualTo(actual));
+            Assert.AreEqual(expected, actual);
         }
-        [Test]
+
+        [TestMethod]
         public void TestEditEmployee()
         {
             Employee employee = employees[0];
             employees[0].Firstname = "testing";
             int expected = 1;
             int actual = _employeeManager.editEmployee(employee);
-            Assert.That(expected, Is.EqualTo(actual));
+            Assert.AreEqual(expected, actual);
         }
-        [Test]
+
+        [TestMethod]
         public void TestGetAllEmployees()
         {
             int expected = 10;
             int actual = _employeeManager.getAllEmployees().Count;
-            Assert.That(expected, Is.EqualTo(actual));
+            Assert.AreEqual(expected, actual);
         }
-        [Test]
+
+        [TestMethod]
         public void TestEmployeeRole()
         {
             int employeeId = employees[0].Employee_id;
             string expected = "test1";
             string actual = _employeeManager.getEmployeeRole(employeeId);
-            Assert.That(expected, Is.EqualTo(actual));
+            Assert.AreEqual(expected, actual);
         }
-        [Test]
+        [TestMethod]
         public void TestVerifyUser()
         {
             int expected = 1;
             int actual = _employeeManager.verifyUser("test1", "test1");
-            Assert.That(expected, Is.EqualTo(actual));
+            Assert.AreEqual(expected, actual);
         }
     }
 }

@@ -9,8 +9,8 @@ namespace IDataAccessLayer
 {
     public interface IBikeAccessor
     {
-        public int insertBike(Bike bike);
-        public List<Bike> selectAllBikes();
-        public int update(Bike bike);
+        int insertBike(Bike bike);
+        List<Bike> selectAllBikes();
+        int update(Bike bike);
     }
 }

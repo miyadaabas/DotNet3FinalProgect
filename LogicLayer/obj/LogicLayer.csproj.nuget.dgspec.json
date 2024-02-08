@@ -1,38 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\LogicLayer\\LogicLayer.csproj": {}
+    "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\LogicLayer\\LogicLayer.csproj": {}
   },
   "projects": {
-    "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\Samar\\.nuget\\packages\\",
-        "outputPath": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\DataAccessLayer\\obj\\",
+        "projectPath": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Miyada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Samar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Miyada\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net48"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net48": {
+            "targetAlias": "net48",
             "projectReferences": {
-              "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\DataObjectsLayer\\DataObjectsLayer.csproj": {
-                "projectPath": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\DataObjectsLayer\\DataObjectsLayer.csproj"
+              "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\DataObjectsLayer\\DataObjectsLayer.csproj": {
+                "projectPath": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\DataObjectsLayer\\DataObjectsLayer.csproj"
               },
-              "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\IDataAccessLayer\\IDataAccessLayer.csproj": {
-                "projectPath": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\IDataAccessLayer\\IDataAccessLayer.csproj"
+              "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\IDataAccessLayer\\IDataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\IDataAccessLayer\\IDataAccessLayer.csproj"
               }
             }
           }
@@ -44,57 +44,41 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net48": {
+          "targetAlias": "net48",
           "dependencies": {
             "System.Data.SqlClient": {
               "target": "Package",
-              "version": "[4.8.5, )"
+              "version": "[4.8.6, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\DataObjectsLayer\\DataObjectsLayer.csproj": {
+    "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\DataObjectsLayer\\DataObjectsLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\DataObjectsLayer\\DataObjectsLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\DataObjectsLayer\\DataObjectsLayer.csproj",
         "projectName": "DataObjectsLayer",
-        "projectPath": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\DataObjectsLayer\\DataObjectsLayer.csproj",
-        "packagesPath": "C:\\Users\\Samar\\.nuget\\packages\\",
-        "outputPath": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\DataObjectsLayer\\obj\\",
+        "projectPath": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\DataObjectsLayer\\DataObjectsLayer.csproj",
+        "packagesPath": "C:\\Users\\Miyada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\DataObjectsLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Samar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Miyada\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net48"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net48": {
+            "targetAlias": "net48",
             "projectReferences": {}
           }
         },
@@ -105,54 +89,38 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8\\RuntimeIdentifierGraph.json"
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\IDataAccessLayer\\IDataAccessLayer.csproj": {
+    "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\IDataAccessLayer\\IDataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\IDataAccessLayer\\IDataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\IDataAccessLayer\\IDataAccessLayer.csproj",
         "projectName": "IDataAccessLayer",
-        "projectPath": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\IDataAccessLayer\\IDataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\Samar\\.nuget\\packages\\",
-        "outputPath": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\IDataAccessLayer\\obj\\",
+        "projectPath": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\IDataAccessLayer\\IDataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Miyada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\IDataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Samar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Miyada\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net48"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net48": {
+            "targetAlias": "net48",
             "projectReferences": {
-              "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\DataObjectsLayer\\DataObjectsLayer.csproj": {
-                "projectPath": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\DataObjectsLayer\\DataObjectsLayer.csproj"
+              "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\DataObjectsLayer\\DataObjectsLayer.csproj": {
+                "projectPath": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\DataObjectsLayer\\DataObjectsLayer.csproj"
               }
             }
           }
@@ -164,54 +132,38 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8\\RuntimeIdentifierGraph.json"
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\ILogicLayer\\ILogicLayer.csproj": {
+    "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\ILogicLayer\\ILogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\ILogicLayer\\ILogicLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\ILogicLayer\\ILogicLayer.csproj",
         "projectName": "ILogicLayer",
-        "projectPath": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\ILogicLayer\\ILogicLayer.csproj",
-        "packagesPath": "C:\\Users\\Samar\\.nuget\\packages\\",
-        "outputPath": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\ILogicLayer\\obj\\",
+        "projectPath": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\ILogicLayer\\ILogicLayer.csproj",
+        "packagesPath": "C:\\Users\\Miyada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\ILogicLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Samar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Miyada\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net48"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net48": {
+            "targetAlias": "net48",
             "projectReferences": {
-              "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\DataObjectsLayer\\DataObjectsLayer.csproj": {
-                "projectPath": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\DataObjectsLayer\\DataObjectsLayer.csproj"
+              "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\DataObjectsLayer\\DataObjectsLayer.csproj": {
+                "projectPath": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\DataObjectsLayer\\DataObjectsLayer.csproj"
               }
             }
           }
@@ -223,63 +175,47 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8\\RuntimeIdentifierGraph.json"
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\LogicLayer\\LogicLayer.csproj": {
+    "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\LogicLayer\\LogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\LogicLayer\\LogicLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\LogicLayer\\LogicLayer.csproj",
         "projectName": "LogicLayer",
-        "projectPath": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\LogicLayer\\LogicLayer.csproj",
-        "packagesPath": "C:\\Users\\Samar\\.nuget\\packages\\",
-        "outputPath": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\LogicLayer\\obj\\",
+        "projectPath": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\LogicLayer\\LogicLayer.csproj",
+        "packagesPath": "C:\\Users\\Miyada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\LogicLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Samar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Miyada\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net48"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net48": {
+            "targetAlias": "net48",
             "projectReferences": {
-              "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\DataObjectsLayer\\DataObjectsLayer.csproj": {
-                "projectPath": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\DataObjectsLayer\\DataObjectsLayer.csproj"
+              "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\DataObjectsLayer\\DataObjectsLayer.csproj": {
+                "projectPath": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\DataObjectsLayer\\DataObjectsLayer.csproj"
               },
-              "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\IDataAccessLayer\\IDataAccessLayer.csproj": {
-                "projectPath": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\IDataAccessLayer\\IDataAccessLayer.csproj"
+              "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\IDataAccessLayer\\IDataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\IDataAccessLayer\\IDataAccessLayer.csproj"
               },
-              "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\ILogicLayer\\ILogicLayer.csproj": {
-                "projectPath": "D:\\Awaab\\Kirkwood\\Tutor\\Dotnet2\\Miyada\\DotNet2Finalproject\\ILogicLayer\\ILogicLayer.csproj"
+              "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\ILogicLayer\\ILogicLayer.csproj": {
+                "projectPath": "C:\\Users\\Miyada\\Miyada\\Miyada\\DotNet2Finalproject-main\\ILogicLayer\\ILogicLayer.csproj"
               }
             }
           }
@@ -291,25 +227,9 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8\\RuntimeIdentifierGraph.json"
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

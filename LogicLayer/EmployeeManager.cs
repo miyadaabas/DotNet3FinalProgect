@@ -69,7 +69,7 @@ namespace LogicLayer
             result = employeeAccessor.verifyUser(email,hashSHA256(password));
             return result;
         }
-        private string hashSHA256(string? source)
+        private string hashSHA256(string source)
         {
             string result = "";
             byte[] data;

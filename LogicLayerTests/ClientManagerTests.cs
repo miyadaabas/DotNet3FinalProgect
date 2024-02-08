@@ -5,9 +5,12 @@ using DataObjectsLayer;
 using FakeDataAccessLayer;
 using System.Text;
 using System.Security.Cryptography;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Collections.Generic;
 
 namespace LogicLayerTests
 {
+    [TestClass]
     public class ClientManagerTests
     {
         private IClientAccessor _clientAccessor;
@@ -16,7 +19,7 @@ namespace LogicLayerTests
         private List<BuyBike> buyBikeList;
         private List<Bike> bikes;
 
-        [SetUp]
+        [TestInitialize]
         public void Setup()
         {
             clients = new List<Client>();
@@ -91,36 +94,36 @@ namespace LogicLayerTests
             return client;
         }
        
-        [Test]
+        [TestMethod]
         public void TestAddClient()
         {
            Client client = new Client();
             client = generateClient(100, "teat100");
             int expected = 1;
             int actual = _clientManager.add(client);
-            Assert.That(expected, Is.EqualTo(actual));
+            Assert.AreEqual(expected, actual);
         }
-        [Test]
+        [TestMethod]
         public void TestBuyBike()
         {
             int expected = 1;
             int actual = _clientManager.buyBike(bikes[0], clients[0]);
-            Assert.That(expected, Is.EqualTo(actual));
+            Assert.AreEqual(expected, actual);
         }
-        [Test]
+        [TestMethod]
         public void TestGetAllClients()
         {
             int expected = 10;
             int actual = _clientManager.getAllClients().Count;
-            Assert.That(expected, Is.EqualTo(actual));
+            Assert.AreEqual(expected, actual);
         }
-        [Test]
+        [TestMethod]
         public void TestUpdateClient()
         {
             clients[0].client_first_name = "Test";
             int expected = 1;
             int actual = _clientManager.update(clients[0]);
-            Assert.That(expected, Is.EqualTo(actual));
+            Assert.AreEqual(expected, actual);
         }
     }
 }

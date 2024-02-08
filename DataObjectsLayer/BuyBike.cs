@@ -10,6 +10,6 @@ namespace DataObjectsLayer
     {
         public int clientId {  get; set; }  
         public int BikeID { get; set; }
-        public string? Price { get; set; }
+        public string Price { get; set; }
     }
 }

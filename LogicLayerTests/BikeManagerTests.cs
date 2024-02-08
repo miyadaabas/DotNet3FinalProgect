@@ -6,17 +6,20 @@ using FakeDataAccessLayer;
 using System.Text;
 using System.Security.Cryptography;
 using DataAccessLayer;
-using Newtonsoft.Json.Linq;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Collections.Generic;
+// using Newtonsoft.Json.Linq;
 
 namespace LogicLayerTests
 {
+    [TestClass]
     public class BikeManagerTests
     {
         private IBikeAccessor bikeAccessor;
         private IBikeManager bikeManager;
         private List<Bike> bikes;
 
-        [SetUp]
+        [TestInitialize]
         public void Setup()
         {
            bikes = new List<Bike>();
@@ -45,28 +48,28 @@ namespace LogicLayerTests
             bike.Total = id;
             return bike;
         }
-        [Test]
+        [TestMethod]
         public void TestAddBike()
         {
             Bike bike = generateBike(11,"test");
             int expected = 1;
             int actual = bikeManager.addBike(bike);
-            Assert.That(expected, Is.EqualTo(actual));
+            Assert.AreEqual(expected, actual);
         }
-        [Test]
+        [TestMethod]
         public void TestEditBike()
         {
             bikes[0].Price = "300";
             int expected = 1;
             int actual = bikeManager.edit(bikes[0]);
-            Assert.That(expected, Is.EqualTo(actual));
+            Assert.AreEqual(expected, actual);
         }
-        [Test]
+        [TestMethod]
         public void TestGetAllBikes()
         {
             int expected = 10;
             int actual = bikeManager.getAllBikes().Count;
-            Assert.That(expected, Is.EqualTo(actual));
+            Assert.AreEqual(expected, actual);
         }
     }
 }
